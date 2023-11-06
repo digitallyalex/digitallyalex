@@ -12,7 +12,7 @@
 
 - 📫 You can reach me via email here: **contact@alexandraasanache.com**
 
-- ⚡ Fun fact: **I can speak 5 languages!** 🇬🇧 🇷🇴 🇧🇷 🇲🇽 🇮🇹
+- ⚡ Fun fact: **I can speak 5 (human) languages!** 🇬🇧 🇷🇴 🇧🇷 🇲🇽 🇮🇹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
