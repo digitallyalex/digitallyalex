@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
 <h3 align="center">A passionate frontend developer and digital marketer from the UK</h3>
 
-- 🌱 I’m currently learning **CSS & JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **projects fit for newbies on HTML, CSS and JavaScript**
 
 - 🤝 I’m looking for help with **a fanbase project for a band called RBD**
 
-
-- 📝 I regularly write articles on [**My Digital Marketing Website**](https://www.digitallyalex.com/blog)
+- 📝 I regularly write articles about digital marketing on [**My Digital Marketing Website**](https://www.digitallyalex.com/blog)
+  
+- 💼 Check out [**My Front-End Web Development Portfolio**](https://digitallyalex.github.io/bootstrap-portfolio-alex-asanache/)
 
 - 📫 You can reach me via email here: **contact@alexandraasanache.com**
 
