@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
 <h3 align="center">A passionate frontend developer and digital marketer from the UK</h3>
 
-- 🌱 I’m currently learning **Intermediate-Advanced JavaScript**
+- 🌱 I’m currently learning **Advanced JavaScript, Node.js & React.js**
 
-- 👯 I’m looking to collaborate on **projects related to digital marketing for small businesses, ethics, accessibility and sustainability**
+- 👯 I’m looking to collaborate on **projects related to digital marketing for small businesses, ethics, wellbeing, accessibility and sustainability**
 
 - 🤝 I’m looking for help with **a fanbase project for a band called RBD**
 
