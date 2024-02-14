@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
-<h3 align="center">A passionate frontend developer and digital marketer from the UK</h3>
+<h3 align="center">A passionate digital marketer from the UK exploring front end development</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
