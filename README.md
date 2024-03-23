@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on **projects related to digital marketing for small businesses, ethics, wellbeing, accessibility and sustainability**
 
 - 📝 I regularly write articles about digital marketing on [**My Digital Marketing Website**](https://www.digitallyalex.com/blog)
-  
-- 💼 Check out [**My Front-End Web Development Portfolio**](https://digitallyalex.github.io/bootstrap-portfolio-alex-asanache/)
 
 - 📫 You can reach me via email here: **contact@alexandraasanache.com**
 
